@@ -1,0 +1,14 @@
+.header
+{
+    background-image: url("../../img/header/header--bg.png");
+}
+
+.header__info--title
+{
+    margin: 0;
+}
+
+.header__info--text
+{
+    margin: 0;
+}

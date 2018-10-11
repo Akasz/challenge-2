@@ -1,0 +1,9 @@
+.main__about
+{
+    background-image: url("../../img/body/about/body__about--bg.png");
+}
+
+.main__about--text
+{
+    margin: 0;
+}

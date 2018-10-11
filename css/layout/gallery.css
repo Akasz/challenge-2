@@ -1,0 +1,14 @@
+.main__gallery
+{
+    background-image: url("../../img/body/gallery/body__gallery--bg.png");
+}
+
+.main__gallery--title
+{
+    margin: 0;
+}
+
+.main__gallery--text
+{
+    margin: 0;
+}
